@@ -3,9 +3,9 @@ class Student:
         self.firstName=firstName
         self.lastName=lastName
     def display(self):
-        # print("First Name:",self.firstName)
-        # print("Last:",self.lastName)
-        print(self.firstName,self.lastName)
+         print("First Name:",self.firstName)
+         print("Last:",self.lastName)
+         print(self.firstName,self.lastName)
 
 s1 = input("Enter your first name\n")
 s2 = input("Enter your last name\n")
